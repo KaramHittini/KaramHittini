@@ -1,16 +1,17 @@
-## Hi there 👋
+# Karam Hittini
 
-<!--
-**KaramHittini/KaramHittini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Digital Craftsman`**
 
-Here are some ideas to get you started:
+I’m passionate about building software that solves real problems, with a strong interest in web development, game development, and software architecture. I enjoy learning new technologies, experimenting with different ideas, and constantly improving my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve worked on projects ranging from web applications to a 2D action platformer game. I also hold several certificates in software and web development, reflecting my dedication to continuous growth.
+
+💡 My goals:
+
+Gain hands-on experience in open-source projects
+
+Strengthen my skills in full-stack development & software design
+
+⚡ Outside of coding, I enjoy challenging myself, learning new skills, and collaborating with others who share the same passion for technology.
+
+---
