@@ -29,4 +29,4 @@ Strengthen my skills in full-stack development & software design
 ### Game Engines
 
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/d486d1e9-33b0-4e6d-9535-7fa1cf2999ca"/>
-<img align="left" alt="Unreal" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a7dd2dfe-c714-45d1-864d-13fd50c255a6"/>
+<img align="left" alt="Unreal" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/38240/unreal-engine"/>
