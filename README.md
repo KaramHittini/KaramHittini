@@ -24,6 +24,7 @@ Strengthen my skills in full-stack development & software design
 <img align="lefT" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="lefT" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 <img align="lefT" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/709033a5-754a-455c-a865-75b94fa3ea6e"/>
+<img align="lefT" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 <br />
 
 #
