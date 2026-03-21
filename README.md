@@ -68,11 +68,3 @@ I’ve worked on projects ranging from web applications to a 2D action platforme
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaramHittini&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=KaramHittini&icon=0&color=5" />
-  </a>
-</p>
