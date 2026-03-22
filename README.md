@@ -62,8 +62,8 @@ I’ve worked on projects ranging from web applications to a 2D action platforme
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaramHittini&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=KaramHittini&theme=github_dark_dimmed&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KaramHittini&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
 </p>
