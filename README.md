@@ -58,12 +58,3 @@ I’ve worked on projects ranging from web applications to a 2D action platforme
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KaramHittini&theme=github_dark_dimmed&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=KaramHittini&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-</p>
