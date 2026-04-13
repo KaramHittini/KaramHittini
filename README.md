@@ -6,7 +6,7 @@ I’m passionate about building software that solves real problems, with a stron
 
 I’ve worked on projects ranging from web applications to a 2D action platformer game. I also hold several certificates in software and web development, reflecting my dedication to continuous growth.
 
-###Goals:
+### Goals:
 * Gain hands-on experience in open-source projects
 * Strengthen my skills in full-stack development & software design
 
