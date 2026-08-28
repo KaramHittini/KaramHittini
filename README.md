@@ -58,3 +58,7 @@ I’ve worked on projects ranging from web applications to a 2D action platforme
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
 </p>
+
+---
+
+* Real talk? I'm good at what I do
