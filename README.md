@@ -6,7 +6,7 @@ I'm hella good
 ### Goals:
 * Money
 * Attention
-* Love and affection
+* Love & affection
 
 ---
 
