@@ -56,6 +56,3 @@ I'm hella good
   <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
 </p>
 
----
-
-* Real talk? I'm good at what I do
