@@ -59,8 +59,8 @@ I'm hella good
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/tech-stack-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./techstack/tech-stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./techstack/tech-stack-light.svg">
     <img alt="Tech stack" src="./assets/tech-stack-dark.svg" width="100%">
   </picture>
 </p>
