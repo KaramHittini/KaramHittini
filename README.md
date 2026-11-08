@@ -8,8 +8,6 @@ I'm hella good
 * Attention
 * Love & affection
 
----
-
 <h1 align="center">Tech Stack</h1>
 
 <p align="center">
