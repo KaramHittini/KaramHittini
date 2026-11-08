@@ -57,3 +57,10 @@ I'm hella good
   <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech-stack-light.svg">
+    <img alt="Tech stack" src="./assets/tech-stack-dark.svg" width="100%">
+  </picture>
+</p>
