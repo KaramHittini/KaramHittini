@@ -6,7 +6,8 @@ I'm hella good
 ### Goals:
 * Money
 * Attention
-* Love & affection
+* Love & affection balls
+* 
 
 <h1 align="center">Tech Stack</h1>
 
